@@ -14,6 +14,7 @@ Repo to create an automated workflow using Github REST APIs and build a leaderbo
 - [Thu, Jun 22, 2023  4:34:46 PM](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/AjoFRjk2mevpJgAZJrN6/scores/)
 - [Fri Jun 23 07:04:11 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/f1rC1pCglFqmU2GQOxw0/scores/)
 - [Fri Jun 23 08:20:47 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/uEy0xk5ipdhWxoQDvKRM/scores/)
+- [Fri Jun 23 08:53:35 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/EJB2CxSmOTdsoVl3HDA1/scores/)
 <!--START_TABLE-->
 | Login        | Contributions | Solved Issues |
 | ------------ | ------------- | ------------- |
